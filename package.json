@@ -13,6 +13,7 @@
 		"build": "npm run clean && tsc",
 		"test": "jest",
 		"debug": "ts-node ./tests/debug.ts",
+		"display": "ts-node ./src/display.ts",
 		"prepublishOnly": "npm run build"
 	},
 	"author": "John Andrew Tyler Pearson <andrew@apearson.io> (https://www.apearson.io)",
