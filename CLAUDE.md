@@ -11,7 +11,7 @@ Node.js/TypeScript library for accessing utility data from Southern Company powe
 - **Language**: TypeScript (Node.js)
 - **Source**: `src/`
 - **Tests**: `tests/`
-- **GitHub**: https://github.com/robertscheib/southern-company-api (public)
+- **GitHub**: https://github.com/tempeduck/southern-company-api (public)
 
 ## Rules
 
