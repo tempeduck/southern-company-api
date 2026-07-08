@@ -1,3 +1,9 @@
+> ⚠️ **This fork is no longer maintained.** It added Nicor Gas support to the original TypeScript library.
+>
+> 👉 **Upstream repo:** [apearson/southern-company-api](https://github.com/apearson/southern-company-api)
+>
+> For Home Assistant, use the Python library instead: [Southern-Company-HA/southern_company_api](https://github.com/Southern-Company-HA/southern_company_api)
+
 # Southern Company API
 [![Github Actions](https://github.com/apearson/southern-company-api/actions/workflows/integration.yml/badge.svg)](https://github.com/apearson/southern-company-api/actions/workflows/integration.yml)
 [![npm](https://img.shields.io/npm/dt/southern-company-api.svg)](https://www.npmjs.com/package/southern-company-api)
